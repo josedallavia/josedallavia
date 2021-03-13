@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josedallavia
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on Healthcare Applications.
+- 💞️ I’m looking to collaborate on Healthcare Applications of Machine Learning.
 - 📫 How to reach me: ```josefinadallavia@gmail.com```
 
 <!---
