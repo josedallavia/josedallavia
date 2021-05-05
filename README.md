@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @josedallavia
-- 👀 I’m interested in Machine Learning and Data Science.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on Mental Health Advocacy.
-- 📫 How to reach me: ```josefinadallavia@gmail.com```
+- 👋  Hi, I’m @josedallavia
+- 👀  I’m interested in Machine Learning and Data Science.
+- 🌱  I’m currently learning Deep Learning.
+- 💞️  I’m looking to collaborate on Mental Health Advocacy.
+- 📫  How to reach me: ```josefinadallavia@gmail.com```
 
 <!---
 josedallavia/josedallavia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
